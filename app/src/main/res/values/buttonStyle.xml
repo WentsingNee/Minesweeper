@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="validButton">0xFF888A85</integer>
+    <integer name="invalidButton">0xFFD3D7CF</integer>
+    <integer name="mineArea">0xFFFF8A80</integer>
+</resources>

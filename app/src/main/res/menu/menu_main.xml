@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wentsingnee.myapplication.MainActivity">
+    <item
+        android:id="@+id/new_round"
+        android:orderInCategory="100"
+        android:title="新开一局"
+        app:showAsAction="never" />
+</menu>
